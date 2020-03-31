@@ -18,3 +18,10 @@ Frontend:
   - React-router-dom;
   - React-icons;
   - Axios;
+
+Mobile:
+  - React Native;
+  - Expo;
+  - intl;
+  - React-dom;
+  - Expo-mail-composer;
