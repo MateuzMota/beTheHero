@@ -13,3 +13,8 @@ Backend:
   - sqlite3 (Driver de DB);
   - Cors (Biblioteca responsável pelo controle de acesso à API.);
   
+Frontend:
+  - React;
+  - React-router-dom;
+  - React-icons;
+  - Axios;
